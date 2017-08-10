@@ -1,6 +1,7 @@
 #ifndef __JSMN_PLUS_H_
 #define __JSMN_PLUS_H_
 
+#include "jsmn.h"
 #include <stddef.h>
 
 #ifdef __cplusplus
